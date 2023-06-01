@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Teddykavooh
 - 👀 I’m interested in software development, graphics and literally anything to do with a computer.
-- 🌱 I’m currently learning android development, PHP, sass.
+- 🌱 I’m currently learning *`Android development`, `Node.js`, `Express.js`, `React`, and `Sass`.*
 - 💞️ I’m looking to collaborate on an android project to better my understanding. I'm also open to python and javascript projects as well.
 - 📫 How to reach me? teddykavooh@gmail.com
 - :globe_with_meridians: Visit my site? [link](https://antonykavoo-portfolio.vercel.app/)
